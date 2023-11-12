@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+
 // Funcao para imprimir a matriz de distancias
 void Imprimir_Matriz(Matriz matrix) {
     for (int i = 0; i < matrix.num_cidades; i++) {
